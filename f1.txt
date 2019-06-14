@@ -1,1 +1,2 @@
 Create f1.txt directly on remote repo which is not available on your local repo.
+File pulled from local repo and now again added this line after pulling this file.
